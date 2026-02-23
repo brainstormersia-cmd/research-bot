@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+httpx
+pydantic>=2
+pydantic-settings
+tenacity
+rapidfuzz
+pandas
+openpyxl
+loguru
+typer
+pytest
